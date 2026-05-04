@@ -235,3 +235,4 @@ Then log in — you'll see the ⚙️ admin button in the navbar.
 - **Storage:** Cloudinary (images + audio)
 - **Location:** Browser Geolocation API + Nominatim reverse geocoding (free)
 - **Distance:** Haversine formula (no Google Maps API needed)
+
